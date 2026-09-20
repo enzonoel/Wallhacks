@@ -2,7 +2,7 @@ Microcontroller: Raspberry Pi Pico W
 
 Sensor: HLK-LD2450 24 GHz mmWave Motion Tracking Radar
 
-Display: Primary: 2.42" monochrome OLED via I2C (SSD1309 / U8g2lib)
+Display: 2.42" monochrome OLED via I2C (SSD1309 / U8g2lib)
 
 Audio: 8-ohm compact speaker / piezo buzzer on hardware PWM
 
